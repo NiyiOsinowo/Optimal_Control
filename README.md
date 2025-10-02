@@ -66,8 +66,15 @@ pip        24.0
 torch      2.3.1
 ```
 ## References
-Model-based Reinforcement Learning: A Survey.(https://arxiv.org/pdf/2006.16712)
-
+- [Model-based Reinforcement Learning: A Survey.](https://arxiv.org/pdf/2006.16712)
+- [http://neuralnetworksanddeeplearning.com/chap1.html#implementing_our_network_to_classify_digits
+- [Back propagation implementation.]https://towardsdatascience.com/neural-networks-backpropagation-by-dr-lihi-gur-arie-27be67d8fdce/
+- [Layer Normalization](https://arxiv.org/pdf/1607.06450)
+- [Weight Normalization](https://arxiv.org/pdf/1602.07868)
+- [FASTNORM](https://openreview.net/pdf?id=BkbOsNeSM)
+- [Layer Normalization Implemetation](https://neuralthreads.medium.com/layer-normalization-applied-on-a-neural-network-f6ad51341726#:~:text=Second%2C%20the%20activation%20function%20for,layer%20is%20the%20Softmax%20function.&text=Fifth%2C%20For%20the%20first%20hidden,before%20the%20ReLU%20activation%20function.)
+- [DDPG](https://www.davidsilver.uk/wp-content/uploads/2020/03/deterministic-policy-gradients.pdf)
+- [Reinforcement Learning for Continuous Stochastic Control Problems](https://proceedings.neurips.cc/paper_files/paper/1997/file/186a157b2992e7daed3677ce8e9fe40f-Paper.pdf)
 ### TO DO/ Future Updates
 - Complete testing for DDPG Algorithm
 - Hyperparametric optimization of DDPG solution of the particle in a field problem
@@ -75,3 +82,4 @@ Model-based Reinforcement Learning: A Survey.(https://arxiv.org/pdf/2006.16712)
 - Testing the MDP algorithm
 - Use the MDP algorithm to solve the the particle in a field problem
 - Benchmark the performance of these algorithms
+
