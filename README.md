@@ -67,7 +67,6 @@ torch      2.3.1
 ```
 ## References
 - [Model-based Reinforcement Learning: A Survey.](https://arxiv.org/pdf/2006.16712)
-- [http://neuralnetworksanddeeplearning.com/chap1.html#implementing_our_network_to_classify_digits
 - [Back propagation implementation.]https://towardsdatascience.com/neural-networks-backpropagation-by-dr-lihi-gur-arie-27be67d8fdce/
 - [Layer Normalization](https://arxiv.org/pdf/1607.06450)
 - [Weight Normalization](https://arxiv.org/pdf/1602.07868)
@@ -82,4 +81,5 @@ torch      2.3.1
 - Testing the MDP algorithm
 - Use the MDP algorithm to solve the the particle in a field problem
 - Benchmark the performance of these algorithms
+
 
